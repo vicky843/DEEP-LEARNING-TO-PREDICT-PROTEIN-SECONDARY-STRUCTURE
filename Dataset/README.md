@@ -1,4 +1,4 @@
-Dataset
+Dataset 
 The dataset is taken from Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction, ICML, 2014.
 
 This dataset was originally hosted at This link. Since the original URL is no longer available and the dataset is still used by many, the dataset has been moved here or mirrored here.
